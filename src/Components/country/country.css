@@ -1,0 +1,15 @@
+.country{
+    border: 3px solid green;
+    border-radius: 15px;
+    padding: 10px;
+
+}
+.condition1{
+    background-color: darkorange;
+    color: wheat;
+    border: 6px solid red;
+    border-radius: 15px;
+    padding: 10px;
+
+
+}
